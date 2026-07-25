@@ -80,7 +80,7 @@ Python | Streamlit | File Handling
 
 Email: koppu.kathyayani@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/koppu-kathyayani-3125b5327/
+LinkedIn: https://www.linkedin.com/in/koppu-kathyayani/
 
 GitHub: https://github.com/kkathyani
 
