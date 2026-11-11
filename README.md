@@ -53,6 +53,7 @@ Motivated Engineering student with hands-on experience in building machine learn
 - Calendar-based study scheduling
 - Study progress tracking and missed-topic notifications
 - Indian public holiday integration
+
 **Tech Stack:**
 Python | Flask | SQLite | HTML | CSS | JavaScript | Calendarific API
 ---
@@ -65,7 +66,7 @@ Python | Flask | SQLite | HTML | CSS | JavaScript | Calendarific API
 - PDF generation
 
 **Tech Stack:**  
-Python | Streamlit | File Handling
+**Python | Streamlit | File Handling**
 
 ---
 
