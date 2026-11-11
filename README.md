@@ -55,7 +55,7 @@ Motivated Engineering student with hands-on experience in building machine learn
 - Indian public holiday integration
 
 **Tech Stack:**
-Python | Flask | SQLite | HTML | CSS | JavaScript | Calendarific API
+**Python | Flask|SQlite|HTML|CSS|JavaScript|Calendarific API *
 ---
 
 ### AI-Based Resume Builder Analyzer
