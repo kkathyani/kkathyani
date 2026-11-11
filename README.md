@@ -76,7 +76,7 @@ A student-focused web application designed to simplify academic planning, organi
 ## 📫 Connect With Me
 
 - **Email:** [koppu.kathyayani@gmail.com](mailto:koppu.kathyayani@gmail.com)
-- **LinkedIn:** [K Venkata Sai Kathyani](https://www.linkedin.com/in/koppu-kathyani/)
+- **LinkedIn:** [K Venkata Sai Kathyani](https://www.linkedin.com/in/koppu-kathyayani/)
 - **GitHub:** [kkathyani](https://github.com/kkathyani)
 
 ---
