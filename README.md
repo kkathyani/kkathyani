@@ -1,42 +1,45 @@
 # Hi there 👋 I'm K Venkata Sai Kathyani
 
 🎓 B.Tech CSE (Data Science) Student  
-💻 Interested in Machine Learning, AI, and Data Science  
-🚀 Passionate about building real-world projects  
+💻 Interested in Machine Learning, Artificial Intelligence, and Data Science  
+🚀 Passionate about building real-world applications and solving problems through technology.
 
 ---
 
 ## 👩‍💻 About Me
 
-Motivated Engineering student with hands-on experience in building machine learning models using Scikit-learn. Skilled in data preprocessing, feature engineering, and Python-based development.
+I am a motivated Computer Science Engineering student specializing in Data Science, with hands-on experience in Python development and Machine Learning.
 
-🌱 Currently learning:
+I enjoy exploring AI applications, working with data, and developing practical projects that solve real-world problems.
+
+🌱 **Currently Learning**
 - Machine Learning
-- AI Applications
+- Artificial Intelligence Applications
 - Data Science
 - Web Application Development
 
 ---
 
-## 🛠 Skills
+## 🛠️ Technical Skills
 
-### Programming Languages
+**Programming Languages**
 - Python
 - Java
 - C
 
-### Libraries & Tools
+**Libraries & Tools**
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 - Streamlit
 
-### Web Technologies
+**Web Technologies**
 - HTML
 - CSS
+- JavaScript
 
-### Soft Skills
+**Soft Skills**
 - Team Collaboration
 - Problem Solving
 - Communication
@@ -46,45 +49,36 @@ Motivated Engineering student with hands-on experience in building machine learn
 
 ## 🚀 Projects
 
-### Student Productivity Planner
-- User authentication and password reset
-- Subject and topic management
-- Automated study plan generation
-- Calendar-based study scheduling
-- Study progress tracking and missed-topic notifications
-- Indian public holiday integration
+### 📚 Student Productivity & Study Planner
 
-**Tech Stack:**
-**Python | Flask|SQlite|HTML|CSS|JavaScript|Calendarific API *
----
+A student-focused web application designed to simplify academic planning, organize study schedules, and improve learning productivity.
 
-### AI-Based Resume Builder Analyzer
+**Key Features**
+- User authentication and password reset.
+- Subject and topic management.
+- Automated study plan generation.
+- Calendar-based study scheduling.
+- Study progress tracking.
+- Notifications for missed topics.
+- Indian public holiday integration.
 
-- Generates resumes from user input
-- Resume analysis and scoring
-- Improvement suggestions
-- PDF generation
-
-**Tech Stack:**  
-**Python | Streamlit | File Handling**
+**Tech Stack:** Python | Flask | SQLite | HTML | CSS | JavaScript | Calendarific API
 
 ---
 
 ## 📜 Certifications
 
-🏆 Python – Kaggle  
-🏆 Pandas – Kaggle  
+- 🏆 Python – Kaggle
+- 🏆 Pandas – Kaggle
 
 ---
 
 ## 📫 Connect With Me
 
-Email: koppu.kathyayani@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/koppu-kathyayani/
-
-GitHub: https://github.com/kkathyani
+- **Email:** [koppu.kathyayani@gmail.com](mailto:koppu.kathyayani@gmail.com)
+- **LinkedIn:** [K Venkata Sai Kathyani](https://www.linkedin.com/in/koppu-kathyani/)
+- **GitHub:** [kkathyani](https://github.com/kkathyani)
 
 ---
 
-⭐ Always interested in learning and collaborating on AI & ML projects.
+⭐ *Always curious, always learning, and always building something new!*
