@@ -46,18 +46,18 @@ Motivated Engineering student with hands-on experience in building machine learn
 
 ## 🚀 Projects
 
-### Power Outage Duration Prediction
-
-- Built a regression-based ML model
-- Performed feature engineering and preprocessing
-- Visualized prediction results
-
-**Tech Stack:**  
-Python | Pandas | NumPy | Scikit-learn | Matplotlib
-
+### Student Productivity Planner
+- User authentication and password reset
+- Subject and topic management
+- Automated study plan generation
+- Calendar-based study scheduling
+- Study progress tracking and missed-topic notifications
+- Indian public holiday integration
+**Tech Stack:**
+Python | Flask | SQLite | HTML | CSS | JavaScript | Calendarific API
 ---
 
-### AI-Based Resume Builder Analyzer (Ongoing)
+### AI-Based Resume Builder Analyzer
 
 - Generates resumes from user input
 - Resume analysis and scoring
